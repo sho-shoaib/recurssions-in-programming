@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/recurssions-in-programming/static/css/main.4ec72671.css",
+    "main.js": "/recurssions-in-programming/static/js/main.6f6a2988.js",
+    "index.html": "/recurssions-in-programming/index.html",
+    "main.4ec72671.css.map": "/recurssions-in-programming/static/css/main.4ec72671.css.map",
+    "main.6f6a2988.js.map": "/recurssions-in-programming/static/js/main.6f6a2988.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ec72671.css",
+    "static/js/main.6f6a2988.js"
+  ]
+}
